@@ -8,7 +8,7 @@ This project presents an analysis of Amazon Prime TV shows and movies spanning t
 The project explores various aspects of Amazon Prime's content library, such as:
 
 Total Titles: 9,655 shows and movies.
-Ratings: 25 unique ratings categories (e.g., PG-13, R).
+Ratings: 25 unique ratings categories 
 Genres: 519 different genres, grouped by popularity.
 Directors: 5,771 unique directors.
 Release Years: Data covering content from 1920 to 2021.
